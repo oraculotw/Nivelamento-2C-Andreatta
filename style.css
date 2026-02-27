@@ -5,3 +5,8 @@ body{
 
 }
 
+.carnaval{
+
+    display: flex;
+    font-size: medium;
+}
